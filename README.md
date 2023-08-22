@@ -13,6 +13,8 @@ Please visit [artery.v2x-research.eu](http://artery.v2x-research.eu).
 The [install instructions](http://artery.v2x-research.eu/install/) previously found in this README have also been moved to this website.
 We welcome your contribution to this documentation effort just as to Artery itself.
 
+If you want to build the website yourself see also [our mkdocs guide](http://artery.v2x-research.eu/mkdocs).
+
 ## Recommended Literature
 - [Recent Advances in Network Simulation: The OMNeT++ Environment and its Ecosystem](https://doi.org/10.1007/978-3-030-12842-5)
     - Section 12 describes the [highway-police scenario](scenarios/highway-police) which is provided by default
@@ -20,3 +22,4 @@ We welcome your contribution to this documentation effort just as to Artery itse
     - [File Extensions - SUMO Documentation](https://sumo.dlr.de/docs/Other/File_Extensions.html) can be used to identify files which belong to SUMO
 - [OMNeT++ Documentation](https://omnetpp.org/documentation/)
     - You might want to use `omnetpp-<VERSION>/doc/*/index.html` in you local OMNet++ installation to use the installed-version manuals 
+If you want to build the website yourself see also [our mkdocs guide](http://artery.v2x-research.eu/mkdocs).
